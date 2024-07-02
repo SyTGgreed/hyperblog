@@ -2,4 +2,4 @@ esta es una prueba en git
 añadiendo una nueva linea de codigo
 ya casi perfeccionamos los comandos git
 
-agregamos otro archivo
+esta sera la ultima version actualizada
