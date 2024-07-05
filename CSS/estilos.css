@@ -2,7 +2,7 @@ body{
     color:black;
     text-align: center;
     font-family: "Arial";
-    font-size: 16px;
+    font-size: 18px;
     margin: 0;
     padding: 0;
 }
@@ -25,11 +25,11 @@ body{
 #cabecera #tagline{
     font-weight: normal;
     font-size: 0.8 em;
-    margin: 0 0 0 1em;
+    margin: 1 0 0 1em;
 }
 
 #container h1{
-    font-size: 20px;
+    font-size: 22px;
     text-align: center;
 }
  #post{
