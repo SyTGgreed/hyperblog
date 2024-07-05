@@ -1,5 +1,5 @@
 body{
-    color:black;
+    color:yellow;
     text-align: center;
     font-family: "Arial";
     font-size: 18px;
@@ -14,7 +14,7 @@ body{
     margin:auto;
 }
 #cabecera{
-    background-color: blue;
+    background-color: red;
     color: aliceblue;
     font-weight: bold;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
